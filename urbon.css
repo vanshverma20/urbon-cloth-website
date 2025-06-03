@@ -1,0 +1,131 @@
+#all{
+     background-color: rgb(255, 210, 151);
+}
+#fistpart{
+    display: flex;
+    background-color: rgb(192, 147, 0);
+    margin-bottom: 10px;
+    position: sticky; top:0;
+}
+a{
+    padding: 10px;
+    text-decoration: none;
+}
+.b{    
+    display: flex;
+}
+.c{
+    display: flex;
+    margin-left: 100px;
+    font-size: 25px;
+    padding-right: 50px;
+}
+.d{display: flex;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+.e{
+    padding-left: 90px;
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+}
+.e:hover{
+    color: rgb(0, 0, 0);
+}
+
+.F{
+    width: 600px;
+    height: 35px;
+    border-radius: 20px;
+    font-size: 30px;
+    text-align: left;
+    padding: 5px;
+    margin-right: 50px;
+}
+.g{ 
+    font-size: 30px;
+    border-radius: 20px;
+    margin-inline: 50px;
+    padding-left:40px ;
+    border-style:none ;
+}
+.g:hover{
+    background-color: green;
+    color: beige;
+    box-shadow: 10px 10px 10px rgb(113, 113, 113);
+}
+
+.h{
+    font-size: 25px;
+}
+.m{
+    width: 100px;
+    height: 50px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 100%;
+}
+h3{
+    font-size: 35px;
+    margin-left: 60px;
+}
+.i{
+    width: 400px;
+    height: 400px; 
+    box-shadow: 10px 10px 20px rgb(107, 107, 107);   
+}
+.i:hover{
+    transition-duration: 1s;
+    transition-property: all;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(190, 142, 0);
+}
+.k{
+    padding-left:40px ;
+    padding-right:40px ;
+}
+.l{
+    margin-left: 50px;
+}
+.n{
+    font-size: 25px;
+    margin-left: 30px;
+    width: 300px;
+    height: 50px;
+}
+.n:hover{
+    font-size: 35px;
+    background-color: green;
+    color: beige;
+    box-shadow: 3px 3px 3px yellow;
+}
+.over{
+    color: rgb(255, 0, 34);
+    text-decoration: line-through;
+}
+#therdpart{
+    display: flex;
+    margin: 50px;
+    justify-content: space-around;
+}
+#fourthpart{
+    display: flex;
+    margin: 50px;
+}
+#secondpart{
+    margin: 50PX;
+}
+p{
+    font-style: italic;   
+}
+.a{
+    padding-bottom:15px ; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.o{
+    margin-left: 8%;
+    display: flex;
+}
